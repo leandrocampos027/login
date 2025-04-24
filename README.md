@@ -22,14 +22,15 @@ O foco está na segurança, organização do código e boas práticas no control
 - PHPMailer
 - HTML5 / CSS3 (layout básico)
 - MySQL (ou MariaDB)
+- Interface com Bootstrap.
 
 Este projeto foi desenvolvido com fins didáticos, como forma de praticar a aplicação de conceitos fundamentais da segurança em autenticação, uso de POO com PHP, e integração de recursos reais de envio de e-mail em aplicações web. Ideal para quem está começando ou quer entender a fundo como funciona um fluxo seguro de login e recuperação de senha.
 
-✨ Melhorias futuras (opcional):
+✨ Melhorias futuras:
 - Integração com reCAPTCHA
 - Validação por link clicável ao invés de código manual
 - Registro de logs de acesso
-- Interface com Bootstrap ou Tailwind CSS
+
 
 
 
